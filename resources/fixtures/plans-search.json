@@ -1,0 +1,21 @@
+{
+    "word": "Safira",
+    "total": 3,
+    "plans": [
+        {
+            "title": "Plano Safira I",
+            "duration": 12,
+            "price": 35.99
+        },
+        {
+            "title": "Plano Safira II",
+            "duration": 24,
+            "price": 25.99
+        },
+        {
+            "title": "Plano Safira III",
+            "duration": 36,
+            "price": 15.99
+        }
+    ]
+}
